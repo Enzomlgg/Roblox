@@ -20,6 +20,10 @@ body
 #home .fp-slide,
 #home .fp-tableCell,
 
+#home2,
+#home2 .fp-slide,
+#home2 .fp-tableCell,
+
 #work,
 #work .fp-slide,
 #work .fp-tableCell,
@@ -174,7 +178,7 @@ h1,h2,h3,h4,h5
         background: url('../images/home-bg.jpg');
         background-size: cover;
         background-repeat: no-repeat;
-        padding-top: 120px;
+        padding-top: 140px;
         padding-bottom: 140px;
         text-align: center;
 	}
@@ -210,6 +214,21 @@ h1,h2,h3,h4,h5
         border-color: transparent;
     }
 /* end home */
+
+#home2
+	{
+        background: url('../images/Computador.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-top: 140px;
+        padding-bottom: 140px;
+        text-align: center;
+	}
+#home2 h2
+    {
+        margin-bottom: 50px;
+        padding-bottom: 150px;
+    }
 
 /* start work */
 #work
