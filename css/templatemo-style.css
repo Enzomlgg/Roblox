@@ -287,6 +287,12 @@ h1,h2,h3,h4,h5
     }
 /* end about */
 
+#Setup
+    {
+        background: rgba(255, 0, 0, 0.103);
+        text-align: center;
+    }
+
 /* start portfolio */
 #portfolio
     {
