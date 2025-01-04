@@ -180,6 +180,7 @@ h1,h2,h3,h4,h5
         background-repeat: no-repeat;
         padding-top: 140px;
         padding-bottom: 140px;
+        background-position: center;
         text-align: center;
 	}
 #home h1
@@ -220,6 +221,7 @@ h1,h2,h3,h4,h5
         background: url('../images/Computador.jpg');
         background-size: cover;
         background-repeat: no-repeat;
+        background-position: center;
         padding-top: 140px;
         padding-bottom: 140px;
         text-align: center;
