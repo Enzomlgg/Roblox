@@ -1,0 +1,40 @@
+/* Botões com estilo minimalista e moderno */
+.fp-button {
+  background-color: transparent;
+  color: #fff;
+  border: 2px solid #fff;
+  padding: 12px 28px;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: 'Arial', sans-serif;
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-left: 10px;
+  margin-bottom: 35px;
+}
+
+.fp-button:hover {
+  background-color: #fff;
+  color: #000;
+  transform: scale(1.05);
+  text-decoration: none;
+}
+
+.fp-button:hover a {
+  color: #000;
+}
+
+.fp-button a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 2px 2px;
+}
+
+/* Clique ativo com leve compressão */
+.fp-button:active {
+  transform: scale(0.97);
+}
